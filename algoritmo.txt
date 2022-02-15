@@ -1,0 +1,17 @@
+Diseñe un algoritmo en base al procedimiento presentado, enumere cada accion como un paso e indique las posibles decisiones que se pueden tomar. 
+
+Algoritmo para realizar una cotizacion.
+
+1- Establecer que el precio base es Q2000
+2- Capturar Nombre del asegurado
+3- Capturar edad del asegurado
+4- Si la edad del asegurado es entre 18 y 24 años realizar un 10% de recargo. De lo contrario, continuar al siguiente paso.
+5- Si la edad del asegurado es entre 25 y 49 años realizar un 20% de recargo. De lo contrario, continuar al siguiente paso.
+6- Si la edad del asegurado es igual o mayor a 50 realizar un 30% de recargo. De lo contrario, continuar al siguiente paso.
+7- Capturar la cantidad de hijos dependientes del asegurado. Colocar cero si es nulo.  
+8- Multiplicar la cantidad de hijos dependientes por 20% para realizar el recargo correspondiente.
+9- Capturar nombre del conyuge del asegurado
+10- Capturar la edad del conyuge del asegurado
+11- Aplicar los pasos 4 al 6 sobre la edad del conyuge del asegurado
+12- Sumar todos los subtotales de recargo + precio base
+13- Mostrar el precio final

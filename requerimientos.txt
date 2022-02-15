@@ -1,0 +1,3 @@
+Analice los requerimientos y, en sus propias palabras, explique cual es el problema, y que casos se estan considerando para cambiar el valor de la cotizacion.
+
+El problema que esta experimentando el departamento de ventas de la empresa de seguros TK-U es que le toma mucho tiempo a los vendedores generar cotizaciones nuevas. Parece ser que estan realizando las cotizaciones de forma manual, lo cual podria incluir hojas de calculo y todo el analisis que se requiere para agregar formulas. 
